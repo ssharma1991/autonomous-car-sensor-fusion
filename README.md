@@ -28,4 +28,5 @@ Within the Simulator environment, Project 1 simulates a car moving on a tilted 8
 
 The final RSME error vector [px,py,vx,vy] for dataset 1 is [.097,.086,.451,.440] while for dataset 2 is [.073,.097,.458,.500].These are within the tolerance limits specified as [.11, .11, 0.52, 0.52].
 
-
+## References
+This project is submitted as partial fulfillment of the Udacity's Self-Driving Car Engineer Nanodegree program. The helper code is available [here](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project).
